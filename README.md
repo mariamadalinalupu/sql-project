@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bike Store Sales Analysis (2016–2018)
 
 ## Overview
@@ -42,3 +43,7 @@ Early spring (Feb–Apr) may benefit from targeted promotions to boost weaker pe
 
 ## Tools & Skills
 SQL (joins, CTEs, window functions), data cleaning, exploratory data analysis, trend analysis, business insight generation.
+=======
+# sql-project
+Exploratory and advanced SQL analysis of sales data to generate business insights using joins, aggregations, and window functions.
+>>>>>>> dd5ef6aa8ba11ac9de061d63447e95f2c2c6dfdd
